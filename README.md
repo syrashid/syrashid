@@ -60,11 +60,10 @@ When I'm not coding you can find me geeking out about photography or trying to j
 
 ### Stuff I sometimes play with
 <p>
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_40/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_40/v1598849659/mapbox_ik768l.png" alt="mapbox-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849658/soap_oujliq.png" alt="soap-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849658/api_md7qxv.png" alt="api-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849658/aws_zdxicw.jpg" alt="aws-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_40/v1598849658/aws_zdxicw.jpg" alt="aws-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849657/ux-ui-logo_g1gptz.png" alt="ux-ui-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849655/stripe_wpdp4s.png" alt="stripe-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_35/v1598849655/algolia_pgipvv.png" alt="algolia-logo">
