@@ -3,7 +3,8 @@
 ---
 <p align="center">
 🦄 I'm a fullstack developer and designer passionate about making digital products through Lean Design principles. 
- 
+</p>
+<p align="center"> 
 When I'm not coding you can find me geeking out about photography or trying to jump out of the nearest plane.
 </p>
 
