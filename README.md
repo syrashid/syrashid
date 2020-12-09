@@ -58,6 +58,8 @@ When I'm not coding you can find me geeking out about photography or trying to j
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
 </p>
 
+<br>
+
 ### What I sometimes play with
 <p>
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
