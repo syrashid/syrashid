@@ -45,6 +45,7 @@ When I'm not coding you can find me geeking out about photography or trying to j
  end
  ```
 ### What I normally play with
+<p align="center"> 
 <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598850235/html_1_whl9rj.png" alt="html-logo">
 <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849662/javascript_eniubp.png" alt="js-logo">
 <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849661/css_jtfcoz.png" alt="css-logo">
@@ -52,7 +53,7 @@ When I'm not coding you can find me geeking out about photography or trying to j
 <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
 <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598850690/rails_1_vess2v.png" alt="rails-logo">
 <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849656/figma_ugopbh.png" alt="figma-logo">
-
+</p>
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
