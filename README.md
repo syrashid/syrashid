@@ -1,6 +1,5 @@
 <h1 align="center">🤠 Howdy! I'm Sy Rashid</h1>
 
----
 <p align="center">
 🦄 I'm a fullstack developer and designer passionate about making digital products through Lean Design principles. 
 </p>
@@ -16,8 +15,8 @@ When I'm not coding you can find me geeking out about photography or trying to j
 </div>
 
 
+<h3 align="center">How I'd define myself...literally</h3>
 
- ## Who am I?
  ```ruby
  class Sy
    def initialize
@@ -48,7 +47,7 @@ When I'm not coding you can find me geeking out about photography or trying to j
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=fff&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=fff&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
 
