@@ -13,13 +13,26 @@
     @hobbies = [ "Skydiving", "Snowboarding", "Tacos" ]
   end
   
-  def location
-    "Zagreb, Croatia"
-  end
-	
   def work
     "MangoTree Dev"
   end
+  
+  def current_location
+    "Zagreb, Croatia"
+  end
+  
+  def next_location
+    "Washington D.C, USA"
+  end
+
+  def currently
+    {
+      enrolled: "JS Algorithms & Data Structures",
+      reading: "The Pragmatic Programmer",
+      tinkering: "Google Analytics & Optimize"
+     }
+  end
+ end
  ```
 
 ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&layout=compact)
