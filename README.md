@@ -1,10 +1,10 @@
 <h1 align="center">🤠 Howdy! I'm Sy Rashid</h1>
 
 <p align="center">
-I'm a fullstack developer and designer passionate about making digital products through Lean Design principles.  I currently work at my agency MangoTree Dev which I launched with one of my best mates and fellow instructors at Le Wagon.   
+I'm a fullstack developer and designer building digital products using Lean Design principles.  I currently work at my agency MangoTree Dev which I launched with one of my best mates and fellow instructors at Le Wagon.   
 </p>
 <p align="center"> 
-When I'm not coding you can find me geeking out about photography or trying to jump out of the nearest plane.
+When I'm not coding find me taking photos or trying to jump out of the nearest plane.
 </p>
 
 <div align="center">
