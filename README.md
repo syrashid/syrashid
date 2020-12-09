@@ -39,13 +39,21 @@ When I'm not coding you can find me geeking out about photography or trying to j
      {
        enrolled: 'JS Algorithms & Data Structures',
        reading: 'The Pragmatic Programmer',
-       tinkering: 'Google Analytics & Optimize'
+       tinkering: 'Google Analytics & Google Optimize'
       }
    end
  end
  ```
+### What I normally play with
+<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598850235/html_1_whl9rj.png" alt="html-logo">
+<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849662/javascript_eniubp.png" alt="js-logo">
+<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849661/css_jtfcoz.png" alt="css-logo">
+<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
+<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
+<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598850690/rails_1_vess2v.png" alt="rails-logo">
+<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_50/v1598849656/figma_ugopbh.png" alt="figma-logo">
 
-### Some quick stats about me
+### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
