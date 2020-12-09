@@ -7,36 +7,37 @@
  ## Who am I?
  ```ruby
  class Sy
-  def initialize
-    @name = 'Sy Rashid'
-    @education = [ "Georgia Tech", "Le Wagon" ]
-    @hobbies = [ "Skydiving", "Snowboarding", "Tacos" ]
-  end
-  
-  def work
-    "MangoTree Dev"
-  end
-  
-  def current_location
-    "Zagreb, Croatia"
-  end
-  
-  def next_location
-    "Washington D.C, USA"
-  end
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 29
+     @work = 'MangoTree Dev'
+     @education = [ 'Georgia Tech', 'Le Wagon' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+   end
 
-  def currently
-    {
-      enrolled: "JS Algorithms & Data Structures",
-      reading: "The Pragmatic Programmer",
-      tinkering: "Google Analytics & Optimize"
-     }
-  end
+   def current_location
+     'Zagreb, Croatia'
+   end
+
+   def next_location
+     'Washington D.C, USA'
+   end
+
+   def currently
+     {
+       enrolled: 'JS Algorithms & Data Structures',
+       reading: 'The Pragmatic Programmer',
+       tinkering: 'Google Analytics & Optimize'
+      }
+   end
  end
  ```
 
-![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&layout=compact)
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&hide=["issues"]&show_icons=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&layout=compact) |
 
-![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&hide=["issues"]&show_icons=true)
+
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid)
