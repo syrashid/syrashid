@@ -56,6 +56,7 @@ When I'm not coding you can find me geeking out about photography or trying to j
 </p>
 
 <br>
+
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
