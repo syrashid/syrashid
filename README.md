@@ -15,7 +15,7 @@ When I'm not coding you can find me geeking out about photography or trying to j
 </div>
 <br>
 
-<h3 align="center">How I'd define myself...literally</h3>
+<h3>How I'd define myself...literally</h3>
 
  ```ruby
  class Sy
@@ -45,6 +45,7 @@ When I'm not coding you can find me geeking out about photography or trying to j
  end
  ```
 
+### Some quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
