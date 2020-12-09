@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#f6c32c;">🤠 Howdy! I'm Sy Rashid</h1>
+<h1 align="center">🤠 Howdy! I'm Sy Rashid</h1>
 
 <p align="center">
 I'm a fullstack developer and designer passionate about making digital products through Lean Design principles.  I currently work at my agency MangoTree Dev which I launched with one of my best mates and fellow instructors at Le Wagon.   
@@ -13,7 +13,7 @@ When I'm not coding you can find me geeking out about photography or trying to j
   [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
   [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
 </div>
-
+<br>
 
 <h3 align="center">How I'd define myself...literally</h3>
 
