@@ -28,7 +28,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    end
 
    def current_location
-     'Zagreb, Croatia'
+     'Washington, D.C.'
    end
 
    def next_location
