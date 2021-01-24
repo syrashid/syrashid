@@ -37,9 +37,9 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
    def currently
      {
-       enrolled: 'JS Algorithms & Data Structures',
+       enrolled: 'Vue - The Complete Guide (w/ Router, Vuex, Composition API)',
        reading: 'The Pragmatic Programmer',
-       tinkering: 'Google Analytics & Google Optimize'
+       tinkering: 'Recommendation Engines'
       }
    end
  end
