@@ -28,11 +28,11 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    end
 
    def current_location
-     'Washington, D.C.'
+     'Washington D.C, USA'
    end
 
    def next_location
-     'Washington D.C, USA'
+     'Seoul, South Korea'
    end
 
    def currently
