@@ -32,14 +32,14 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    end
 
    def next_location
-     'Seoul, South Korea'
+     'Lisbon, Portugal'
    end
 
    def currently
      {
        enrolled: 'Vue - The Complete Guide (w/ Router, Vuex, Composition API)',
        reading: 'The Pragmatic Programmer',
-       tinkering: 'Recommendation Engines'
+       tinkering: 'Hotwire'
       }
    end
  end
