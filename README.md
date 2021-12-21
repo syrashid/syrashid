@@ -37,7 +37,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
    def currently
      {
-       enrolled: 'Vue - The Complete Guide (w/ Router, Vuex, Composition API)',
+       enrolled: 'Vue - FrontEnd Masters Courses',
        reading: '99 Bottles of OOP - Ruby',
        tinkering: 'Hotwire'
       }
