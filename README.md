@@ -21,7 +21,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
  class Sy
    def initialize
      @name = 'Sy Rashid'
-     @age = 29
+     @age = 30
      @work = [ 'MangoTree Dev', 'ARTSVP' ]
      @education = [ 'Georgia Tech', 'HBX/HBS' 'Le Wagon' ]
      @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
