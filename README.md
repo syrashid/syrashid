@@ -22,7 +22,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    def initialize
      @name = 'Sy Rashid'
      @age = 30
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove' ]
+     @work = [ 'MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon' ]
      @education = [ 'Georgia Tech', 'HBX/HBS' 'Le Wagon' ]
      @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
    end
