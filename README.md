@@ -18,11 +18,11 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 <h3>How I'd define myself...literally</h3>
 
  ```ruby
- class Sy
+ class Sy < Person
    def initialize
      @name = 'Sy Rashid'
      @age = 30
-     @work = [ 'MangoTree Dev', 'ARTSVP' ]
+     @work = [ 'MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove' ]
      @education = [ 'Georgia Tech', 'HBX/HBS' 'Le Wagon' ]
      @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
    end
@@ -38,7 +38,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    def currently
      {
        enrolled: 'Vue - Frontend Masters',
-       reading: '99 Bottles of OOP - Ruby',
+       reading: 'Algorithms to Live By',
        tinkering: 'Hotwire'
       }
    end
