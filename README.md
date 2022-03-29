@@ -32,7 +32,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    end
 
    def next_location
-     'Andorra'
+     'Ireland'
    end
 
    def currently
