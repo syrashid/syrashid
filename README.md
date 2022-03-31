@@ -38,8 +38,8 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    def currently
      {
        enrolled: 'Vue - Frontend Masters',
-       reading: 'Algorithms to Live By',
-       tinkering: 'Hotwire'
+       reading: ['Algorithms to Live By', 'Rails AntiPatterns'],
+       tinkering: 'StimulusJS'
       }
    end
  end
