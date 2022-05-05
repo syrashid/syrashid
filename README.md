@@ -23,23 +23,23 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
      @name = 'Sy Rashid'
      @age = 30
      @work = [ 'MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Georgia Tech', 'HBX/HBS' 'Le Wagon', 'Georgia Tech... again?' ]
+     @education = [ 'Georgia Tech', 'HBX/HBS' 'Le Wagon', 'Georgia Tech... again' ]
      @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
    end
 
    def current_location
-     'Zemunik, Croatia'
+     'Lisbon, Portugal'
    end
 
    def next_location
-     'Lisbon, Portugal'
+     'Singapore'
    end
 
    def currently
      {
-       enrolled: 'Vue - Frontend Masters',
-       reading: ['Rails AntiPatterns', 'Trust Me, I'm Lying'],
-       tinkering: 'Hotwire - Turbo  & Stimulus'
+       auditing: 'Computing in Python I: Fundamentals and Procedural Programming',
+       reading: ['Rails AntiPatterns', 'Top Five Regrets of the Dying'],
+       tinkering: ['Hotwire - Turbo & Stimulus', 'Python']
       }
    end
  end
