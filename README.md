@@ -38,8 +38,8 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    def currently
      {
        auditing: 'Computing in Python I: Fundamentals and Procedural Programming',
-       reading: ['Rails AntiPatterns', 'Top Five Regrets of the Dying'],
-       tinkering: ['Hotwire - Turbo & Stimulus', 'Python']
+       reading: [ 'Rails AntiPatterns', 'Top Five Regrets of the Dying' ],
+       tinkering: [ 'Hotwire - Turbo & Stimulus', 'Python' ]
       }
    end
  end
