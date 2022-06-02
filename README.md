@@ -32,14 +32,14 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    end
 
    def next_location
-     'Singapore'
+     'Algarve, Portugal'
    end
 
    def currently
      {
-       auditing: 'Computing in Python I: Fundamentals and Procedural Programming',
+       auditing: [ 'Computing in Python II: Control Structures', 'Linear Algebra I: Linear Equations' ],
        reading: [ 'Rails AntiPatterns', 'Top Five Regrets of the Dying' ],
-       tinkering: [ 'Hotwire - Turbo & Stimulus', 'Python' ]
+       tinkering: [ 'Linear Algebra', 'Python' ]
       }
    end
  end
