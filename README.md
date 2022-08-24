@@ -32,13 +32,13 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
    end
 
    def next_location
-     'Algarve, Portugal'
+     '???, ???'
    end
 
    def currently
      {
        auditing: [ 'Computing in Python II: Control Structures', 'Linear Algebra I: Linear Equations' ],
-       reading: [ 'Rails AntiPatterns', 'Top Five Regrets of the Dying' ],
+       reading: [ 'Rails AntiPatterns', 'AIQ' ],
        tinkering: [ 'Linear Algebra', 'Python' ]
       }
    end
