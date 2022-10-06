@@ -23,7 +23,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
      @name = 'Sy Rashid'
      @age = 30
      @work = [ 'MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Georgia Tech', 'HBX/HBS' 'Le Wagon', 'Georgia Tech... again' ]
+     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
      @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
    end
 
@@ -31,13 +31,13 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
      'Lisbon, Portugal'
    end
 
-   def next_location
-     '???, ???'
+   def next_locations
+     ['London, UK', 'Cape Town, SA']
    end
 
    def currently
      {
-       auditing: [ 'Computing in Python II: Control Structures', 'Linear Algebra I: Linear Equations' ],
+       studying: [ 'Intro to Information Security' ],
        reading: [ 'Rails AntiPatterns', 'AIQ' ],
        tinkering: [ 'Linear Algebra', 'Python' ]
       }
