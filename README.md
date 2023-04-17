@@ -8,7 +8,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 </p>
 
 <div align="center">
-  [![Behance Badge]([https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
   [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
   [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
   [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
@@ -21,25 +21,25 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
  class Sy < Person
    def initialize
      @name = 'Sy Rashid'
-     @age = 30
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon' ]
+     @age = 31
+     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
      @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
      @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
    end
 
    def current_location
-     'Lisbon, Portugal'
+     'Burke, VA, USA'
    end
 
    def next_locations
-     ['London, UK', 'Cape Town, SA']
+     ['Lisbon, PT', 'Barcelona, ESP']
    end
 
    def currently
      {
-       studying: [ 'Intro to Information Security' ],
-       reading: [ 'Rails AntiPatterns', 'AIQ' ],
-       tinkering: [ 'Linear Algebra', 'Python' ]
+       studying: [ 'Network Security' ],
+       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
+       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
       }
    end
  end
