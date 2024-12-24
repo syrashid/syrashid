@@ -14,7 +14,7 @@
 My name is Sy Rashid, and I like to build stuff, usually with code. In school I spent time building nuclear reactor simulations, then built hard kombucha and wine brands with Anheuser-Busch, and now I work building art tech with ARTSVP. Coding has been an on and off love affair for me since high school, until I really understood the role software could play in creating a more equitable society. I'm now back in school at Georgia Tech getting my Masters in Machine Learning because I believe in the field's outsized impact to create those opportunities. 
 </p>
 <p> 
-All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-rritos, gyros, etc), <a href="https://www.behance.net/syrashid">taking photos</a>, or trying to <a href="images/falling_with_style.GIF" target="_blank">jump out</a> of the nearest plane.
+All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-rritos, gyros, etc), <a href="https://www.behance.net/syrashid">taking photos</a>, or trying to <a href="images/falling_with_style.GIF">jump out</a> of the nearest plane.
 </p>
 
 
@@ -57,7 +57,7 @@ All said, I like building and designing well engineered software systems, eating
 
 <hr>
 
-### Cool Stuff Everyone Should See
+### 👾 Cool Stuff Everyone Should See
 
 -  TODO
 -  TODO
@@ -65,8 +65,8 @@ All said, I like building and designing well engineered software systems, eating
 
 <hr>
 
-### My Cozy Corner of the Internet
+### 🤠 My Cozy Corner of the Internet
 
--  TODO
--  TODO
--  TODO
+-  My Personal 80's Style <a href="https://vimeo.com/347233285?share=copy#t=0">Dating Video</a>
+-  <a href="https://mangotree.dev">MangoTree's Website</a> (Do you know the Konami Code?)
+-  <a href="https://syrashid.medium.com/tinderellas-data-bar-charts-my-adventures-down-the-tinder-rabbit-hole-9bf540d796a7">Tinderellas, Data, & Bar Charts</a>
