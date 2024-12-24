@@ -1,4 +1,4 @@
-<h1>🤠 syrashid</h1>
+<h1>About</h1>
 
 <p align="center">
 I'm a fullstack developer and designer building digital products using Lean Design principles.  I currently manage and code for my agency MangoTree Dev; which I launched with one of my best mates and fellow instructors at Le Wagon. I also work as a full stack developer for ARTSVP, a startup focused on guestlist and event management.   
