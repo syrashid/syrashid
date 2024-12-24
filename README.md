@@ -1,19 +1,17 @@
-<h1>About</h1>
-
-<p align="center">
-I'm a fullstack developer and designer building digital products using Lean Design principles.  I currently manage and code for my agency MangoTree Dev; which I launched with one of my best mates and fellow instructors at Le Wagon. I also work as a full stack developer for ARTSVP, a startup focused on guestlist and event management.   
-</p>
-<p align="center"> 
-When I'm not coding find me taking photos or trying to jump out of the nearest plane.
-</p>
-
-<div align="center">
+<div align="right">
   
   [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
   [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
   [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
   [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
 </div>
+
+<h1>About Me</h1>
+
+<p>
+My name is Sy Rashid, and I like to build stuff, usually with code. In school I spent time building nuclear reactor simulations, then built hard kombucha and wine brands with Anheuser-Busch, and now I work building art tech with ARTSVP. Coding has been an on and off love affair for me since high school, until I really understood the role software could play in creating a more equitable society. I'm now back in school at Georgia Tech getting my Masters in Machine Learning because I believe in the field's outsized impact to create those opportunities. All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-ritos, gyros, etc), [taking photos](https://www.behance.net/syrashid), or trying to jump out of the nearest plane.
+</p>
+
 <br>
 
 <h3>How I'd define myself...literally</h3>
