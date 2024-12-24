@@ -6,6 +6,8 @@
   [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
 </div>
 
+<hr>
+
 <h1>About Me</h1>
 
 <p>
@@ -53,13 +55,17 @@ All said, I like building and designing well engineered software systems, eating
  end
  ```
 
-## 💾 Cool Stuff Everyone Should See
+<hr>
+
+### Cool Stuff Everyone Should See
 
 -  TODO
 -  TODO
 -  TODO
 
-## 💻 My Cozy Corner of the Internet
+<hr>
+
+### My Cozy Corner of the Internet
 
 -  TODO
 -  TODO
