@@ -66,7 +66,7 @@ All said, I like building and designing well engineered software systems, eating
 
 ### 🤠 My Cozy Corner of the Internet
 
--  I made the newspaper <a href="https://www.stuttgarter-nachrichten.de/inhalt.bluehendes-barock-gaudi-in-ludwigsburg-mit-kuerbisbooten-um-die-wette-paddeln.c99aad56-3b82-4c07-a561-ef945f3ac523.html">racing pumpkin boats 🎃</a>
--  My Personal 80's Style <a href="https://vimeo.com/347233285?share=copy#t=0">Dating Video 👴🏾</a>
+-  I made the newspaper <a href="https://www.stuttgarter-nachrichten.de/inhalt.bluehendes-barock-gaudi-in-ludwigsburg-mit-kuerbisbooten-um-die-wette-paddeln.c99aad56-3b82-4c07-a561-ef945f3ac523.html">racing pumpkin boats</a> 🎃
+-  My Personal 80's Style <a href="https://vimeo.com/347233285?share=copy#t=0">Dating Video</a> 👴🏾
 -  <a href="https://mangotree.dev">MangoTree's Website</a> (Do you know the Konami Code?) 🔦
--  <a href="https://syrashid.medium.com/tinderellas-data-bar-charts-my-adventures-down-the-tinder-rabbit-hole-9bf540d796a7">Tinderellas, Data, & Bar Charts 👸</a>
+-  <a href="https://syrashid.medium.com/tinderellas-data-bar-charts-my-adventures-down-the-tinder-rabbit-hole-9bf540d796a7">Tinderellas, Data, & Bar Charts</a> 👸
