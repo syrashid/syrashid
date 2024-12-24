@@ -15,33 +15,35 @@ My name is Sy Rashid, and I like to build stuff, usually with code. In school I 
 All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-ritos, gyros, etc), <a href="https://www.behance.net/syrashid">taking photos</a>, or trying to jump out of the nearest plane.
 </p>
 
-<br>
-
 <h3>How I'd define myself...literally</h3>
 
  ```ruby
  class Sy < Person
    def initialize
      @name = 'Sy Rashid'
-     @age = 31
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+     @age = 33
+     @work = [ 'ARTSVP', 'MangoTree Dev' ]
+     @education = [ 'Georgia Tech MSCS', 'Le Wagon', 'HBX/HBS', 'Georgia Tech BSNRE' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Burritos' ]
+   end
+
+   def languages
+     [ 'English', 'Bengali', 'Portuguese', 'Spanish' ]
    end
 
    def current_location
-     'Burke, VA, USA'
+     'Lisbon, PT'
    end
 
    def next_locations
-     ['Lisbon, PT', 'Barcelona, ESP']
+     [ 'Zadar, HR', 'Tignes, FR' ]
    end
 
    def currently
      {
-       studying: [ 'Network Security' ],
-       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+       studying: [ 'Natural Language Processing', 'Deep Learning', 'Language of Proofs' ],
+       reading: [ 'Shape Up', 'Their Eyes Were Watching God', 'The Moral Animal' ],
+       tinkering: [ 'PR Stacking (Graphite)', 'Quant Trading', 'Frontside Shifty' ]
       }
    end
  end
