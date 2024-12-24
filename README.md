@@ -9,7 +9,10 @@
 <h1>About Me</h1>
 
 <p>
-My name is Sy Rashid, and I like to build stuff, usually with code. In school I spent time building nuclear reactor simulations, then built hard kombucha and wine brands with Anheuser-Busch, and now I work building art tech with ARTSVP. Coding has been an on and off love affair for me since high school, until I really understood the role software could play in creating a more equitable society. I'm now back in school at Georgia Tech getting my Masters in Machine Learning because I believe in the field's outsized impact to create those opportunities. All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-ritos, gyros, etc), [taking photos](https://www.behance.net/syrashid), or trying to jump out of the nearest plane.
+My name is Sy Rashid, and I like to build stuff, usually with code. In school I spent time building nuclear reactor simulations, then built hard kombucha and wine brands with Anheuser-Busch, and now I work building art tech with ARTSVP. Coding has been an on and off love affair for me since high school, until I really understood the role software could play in creating a more equitable society. I'm now back in school at Georgia Tech getting my Masters in Machine Learning because I believe in the field's outsized impact to create those opportunities. 
+</p>
+<p> 
+All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-ritos, gyros, etc), <a href="https://www.behance.net/syrashid">taking photos</a>, or trying to jump out of the nearest plane.
 </p>
 
 <br>
