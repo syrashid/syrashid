@@ -8,8 +8,6 @@
 
 <hr>
 
-<h1>About Me</h1>
-
 <p>
 My name is Sy Rashid, and I like to build stuff, usually with code. In school I spent time building nuclear reactor simulations, then built hard kombucha and wine brands with Anheuser-Busch, and now I work building art tech with ARTSVP. Coding has been an on and off love affair for me since high school, until I really understood the role software could play in creating a more equitable society. I'm now back in school at Georgia Tech getting my Masters in Machine Learning because I believe in the field's outsized impact to create those opportunities. 
 </p>
