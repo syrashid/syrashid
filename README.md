@@ -15,6 +15,7 @@ My name is Sy Rashid, and I like to build stuff, usually with code. In school I 
 All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-rritos, gyros, etc), <a href="https://www.behance.net/syrashid">taking photos</a>, or trying to <a href="images/falling_with_style.GIF">jump out</a> of the nearest plane.
 </p>
 
+<hr>
 
 ### 📘 How I'd Define Me... Literally
 
