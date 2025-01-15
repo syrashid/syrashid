@@ -41,13 +41,13 @@ All said, I like building and designing well engineered software systems, eating
    end
 
    def next_locations
-     [ 'Zadar, HR', 'Tignes, FR' ]
+     [ 'Chamonix, FR' ]
    end
 
    def currently
      {
        studying: [ 'Natural Language Processing', 'Deep Learning', 'Language of Proofs' ],
-       reading: [ 'Shape Up', 'Their Eyes Were Watching God', 'The Moral Animal' ],
+       reading: [ 'The Moral Animal', 'Discrete Mathmatics and Its Applications' ],
        tinkering: [ 'PR Stacking (Graphite)', 'Quant Trading', 'Frontside Shifty' ]
       }
    end
