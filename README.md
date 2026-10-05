@@ -24,7 +24,7 @@ All said, I like building and designing well engineered software systems, eating
    def initialize
      @name = 'Sy Rashid'
      @age = 34
-     @work = [ 'ARTSVP', 'MangoTree Dev' ]
+     @work = [ 'Delta Systems', 'MangoTree Dev' ]
      @education = [ 'Georgia Tech MSCS', 'Le Wagon', 'HBX/HBS', 'Georgia Tech BSNRE' ]
      @hobbies = [ 'Skydiving', 'Snowboarding', 'Burritos' ]
    end
@@ -32,23 +32,23 @@ All said, I like building and designing well engineered software systems, eating
    def languages
      {
        human: [ 'English', 'Bengali', 'Portuguese', 'Spanish' ],
-       programming: [ 'Ruby', 'Python', 'Javascript', 'SQL' ]
+       programming: [ 'Ruby', 'Python', 'Typescript', 'SQL' ]
       }
    end
 
    def current_location
-     'Lisbon, PT'
+     'Zadar, HR'
    end
 
    def next_locations
-     [ 'Zell am See, AT' ]
+     [ 'Dubrovnik, HR', 'Rome, IT' ]
    end
 
    def currently
      {
-       studying: [ 'Natural Language Processing', 'Deep Learning', 'Language of Proofs' ],
-       reading: [ 'The Moral Animal', 'Discrete Mathmatics and Its Applications' ],
-       tinkering: [ 'PR Stacking (Graphite)', 'Quant Trading', 'Frontside Shifty' ]
+       studying: [ 'Expo Go / React Native' ],
+       reading: [ 'Hyperfocus' ],
+       tinkering: [ 'Linux Mint', 'Homelab Setup' ]
       }
    end
  end
